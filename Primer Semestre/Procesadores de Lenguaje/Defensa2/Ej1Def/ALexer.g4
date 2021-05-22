@@ -1,0 +1,40 @@
+lexer grammar ALexer;
+
+COMENTARIO_LINEA: '//' .*? '\n' -> skip;
+COMENTARIO_BLOQUE: (('/*' .*? '*/') | ('/**' .*? '**/') | ('/***' .*? '***/')) -> skip;
+PUNTO_COMA: ';';
+DOS_PUNTOS: ':';
+COMA: ',';
+ASIGNAR: ':=';
+FUNCTION: 'function';
+MAIN: 'main';
+WHILE: 'while';
+IF: 'if';
+FOR: 'for';
+PI: '(';
+PD: ')';
+SUMA: '+';
+RESTA: '-';
+INCREMENTO: '++';
+DECREMENTO: '--'; 
+MULTIPLICACION: '*';
+DIVISION: '/';
+MAYOR_QUE: '>';
+MENOR_QUE: '<';
+IGUAL: '=';
+AND: '&&';
+OR: '||';
+BEGIN: 'begin';
+END: 'end';
+INCLUDE: 'include'; 
+VOID: 'void';          // VOID POR SEPARADO PORQUE NO ACTUA SIEMPRE IGUAL QUE UN TIPO DE VARIABLE
+PR_CADENA: 'cadena';
+PR_NUMERO:'numero';
+fragment INT: [0-9];
+PUNTO: '.';
+NUMERO: INT+ PUNTO? INT*;
+COMILLAS: '"';
+STRING: COMILLAS .*? COMILLAS;
+fragment LETRA: [a-zA-Z];
+PALABRA: LETRA (LETRA | INT | '_')*;    // COMPROBAR VALIDEZ DE '_'
+SOBRAS: [ \n\t\r]+ -> skip; 

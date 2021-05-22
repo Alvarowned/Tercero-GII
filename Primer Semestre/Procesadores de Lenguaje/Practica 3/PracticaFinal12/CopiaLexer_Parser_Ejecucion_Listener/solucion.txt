@@ -1,0 +1,17 @@
+/prog
+/prog/functions
+/prog/functions/p_reservadafuncion
+/prog/functions/p_reservadafuncion : function
+/prog/functions/n_funcion
+/prog/functions/n_funcion : estructura
+/prog : _
+/prog/functions/n_funcion
+/prog/functions/n_funcion : if
+/prog/functions/parentesis
+/prog/functions/parentesis : (
+/prog/functions/parentesis
+/prog/functions/parentesis : )
+/prog/functions/d_puntos
+/prog/functions/d_puntos : :
+/prog/functions/type
+/prog/functions/type : void

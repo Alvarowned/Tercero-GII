@@ -1,0 +1,46 @@
+1 - Comprobar cadena. 
+2 - Generar cadenas. 
+3 - Salir del programa. 
+Elija su opcion: 1
+Introduzca la cadena a comprobar: b
+La cadena es válida.
+1 - Comprobar cadena. 
+2 - Generar cadenas. 
+3 - Salir del programa. 
+Elija su opcion: 1
+Introduzca la cadena a comprobar: ab
+La cadena es válida.
+1 - Comprobar cadena. 
+2 - Generar cadenas. 
+3 - Salir del programa. 
+Elija su opcion: 1
+Introduzca la cadena a comprobar: aba
+La cadena no es válida.
+1 - Comprobar cadena. 
+2 - Generar cadenas. 
+3 - Salir del programa. 
+Elija su opcion: 1
+Introduzca la cadena a comprobar: aaaaabc
+La cadena no es válida.
+1 - Comprobar cadena. 
+2 - Generar cadenas. 
+3 - Salir del programa. 
+Elija su opcion: 2
+Introduzca el numero de palabras válidas a crear: 200
+Introduzca la longitud de las palabras a crear: 10
+1 - aaaaaaaaab
+2 - aaaaaaaab
+3 - aaaaaaab
+4 - aaaaaab
+5 - aaaaab
+6 - aaaab
+7 - aaab
+8 - aab
+9 - ab
+10 - b
+11 - ca
+1 - Comprobar cadena. 
+2 - Generar cadenas. 
+3 - Salir del programa. 
+Elija su opcion: 3
+BUILD SUCCESSFUL (total time: 44 seconds)

@@ -1,0 +1,5 @@
+Grupos: 
+	Grupo 0 -> ['Emma', 'Bea', 'Carlos', 'Antonio']
+	Grupo 1 -> ['David', 'Fernando']
+
+El resultado de dividir 2 grupos entre 6 personas sería 0.3333333333333333.

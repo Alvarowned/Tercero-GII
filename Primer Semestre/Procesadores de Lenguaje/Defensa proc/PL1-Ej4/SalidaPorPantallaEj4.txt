@@ -1,0 +1,125 @@
+run:
+1 - Comprobar cadena. 
+2 - Generar cadenas. 
+3 - Salir del programa. 
+Elija su opcion: 1
+Introduzca la cadena a comprobar: abmbo
+La cadena es válida.
+1 - Comprobar cadena. 
+2 - Generar cadenas. 
+3 - Salir del programa. 
+Elija su opcion: 1
+Introduzca la cadena a comprobar: aabcccmbqccp
+java.lang.NullPointerException
+La cadena no es válida.
+1 - Comprobar cadena. 
+2 - Generar cadenas. 
+3 - Salir del programa. 
+Elija su opcion: 2
+Introduzca el numero de palabras válidas a crear: 100
+Introduzca la longitud de las palabras a crear: 15
+1 - aaaaaaaaaaaaabm
+2 - aaaaaaaaaaaaabn
+3 - aaaaaaaaaaaaabo
+4 - aaaaaaaaaaaaabp
+5 - aaaaaaaaaaaaabq
+6 - aaaaaaaaaaaabcm
+7 - aaaaaaaaaaaabcn
+8 - aaaaaaaaaaaabco
+9 - aaaaaaaaaaaabcp
+10 - aaaaaaaaaaaabcq
+11 - aaaaaaaaaaaabm
+12 - aaaaaaaaaaaabn
+13 - aaaaaaaaaaaabo
+14 - aaaaaaaaaaaabp
+15 - aaaaaaaaaaaabq
+16 - aaaaaaaaaaabccm
+17 - aaaaaaaaaaabccn
+18 - aaaaaaaaaaabcco
+19 - aaaaaaaaaaabccp
+20 - aaaaaaaaaaabccq
+21 - aaaaaaaaaaabcm
+22 - aaaaaaaaaaabcn
+23 - aaaaaaaaaaabco
+24 - aaaaaaaaaaabcp
+25 - aaaaaaaaaaabcq
+26 - aaaaaaaaaaabm
+27 - aaaaaaaaaaabmbm
+28 - aaaaaaaaaaabmbn
+29 - aaaaaaaaaaabmbo
+30 - aaaaaaaaaaabmbp
+31 - aaaaaaaaaaabmbq
+32 - aaaaaaaaaaabn
+33 - aaaaaaaaaaabnbm
+34 - aaaaaaaaaaabnbn
+35 - aaaaaaaaaaabnbo
+36 - aaaaaaaaaaabnbp
+37 - aaaaaaaaaaabnbq
+38 - aaaaaaaaaaabo
+39 - aaaaaaaaaaabobm
+40 - aaaaaaaaaaabobn
+41 - aaaaaaaaaaabobo
+42 - aaaaaaaaaaabobp
+43 - aaaaaaaaaaabobq
+44 - aaaaaaaaaaabp
+45 - aaaaaaaaaaabpbm
+46 - aaaaaaaaaaabpbn
+47 - aaaaaaaaaaabpbo
+48 - aaaaaaaaaaabpbp
+49 - aaaaaaaaaaabpbq
+50 - aaaaaaaaaaabq
+51 - aaaaaaaaaaabqbm
+52 - aaaaaaaaaaabqbn
+53 - aaaaaaaaaaabqbo
+54 - aaaaaaaaaaabqbp
+55 - aaaaaaaaaaabqbq
+56 - aaaaaaaaaabcccm
+57 - aaaaaaaaaabcccn
+58 - aaaaaaaaaabccco
+59 - aaaaaaaaaabcccp
+60 - aaaaaaaaaabcccq
+61 - aaaaaaaaaabccm
+62 - aaaaaaaaaabccn
+63 - aaaaaaaaaabcco
+64 - aaaaaaaaaabccp
+65 - aaaaaaaaaabccq
+66 - aaaaaaaaaabcm
+67 - aaaaaaaaaabcmbm
+68 - aaaaaaaaaabcmbn
+69 - aaaaaaaaaabcmbo
+70 - aaaaaaaaaabcmbp
+71 - aaaaaaaaaabcmbq
+72 - aaaaaaaaaabcn
+73 - aaaaaaaaaabcnbm
+74 - aaaaaaaaaabcnbn
+75 - aaaaaaaaaabcnbo
+76 - aaaaaaaaaabcnbp
+77 - aaaaaaaaaabcnbq
+78 - aaaaaaaaaabco
+79 - aaaaaaaaaabcobm
+80 - aaaaaaaaaabcobn
+81 - aaaaaaaaaabcobo
+82 - aaaaaaaaaabcobp
+83 - aaaaaaaaaabcobq
+84 - aaaaaaaaaabcp
+85 - aaaaaaaaaabcpbm
+86 - aaaaaaaaaabcpbn
+87 - aaaaaaaaaabcpbo
+88 - aaaaaaaaaabcpbp
+89 - aaaaaaaaaabcpbq
+90 - aaaaaaaaaabcq
+91 - aaaaaaaaaabcqbm
+92 - aaaaaaaaaabcqbn
+93 - aaaaaaaaaabcqbo
+94 - aaaaaaaaaabcqbp
+95 - aaaaaaaaaabcqbq
+96 - aaaaaaaaaabm
+97 - aaaaaaaaaabmbcm
+98 - aaaaaaaaaabmbcn
+99 - aaaaaaaaaabmbco
+100 - aaaaaaaaaabmbcp
+1 - Comprobar cadena. 
+2 - Generar cadenas. 
+3 - Salir del programa. 
+Elija su opcion: 3
+BUILD SUCCESSFUL (total time: 1 minute 27 seconds)
